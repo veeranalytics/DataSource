@@ -1,0 +1,193 @@
+,Row.names,CountryName,.id,X..i..
+1,1,Aruba,cluster,3
+2,10,Austria,cluster,3
+3,100,Libya,cluster,2
+4,101,St. Lucia,cluster,2
+5,102,Sri Lanka,cluster,2
+6,103,Lesotho,cluster,1
+7,104,Lithuania,cluster,2
+8,105,Luxembourg,cluster,3
+9,106,Latvia,cluster,2
+10,107,"Macau SAR, China",cluster,3
+11,108,Morocco,cluster,2
+12,109,Moldova,cluster,2
+13,11,Azerbaijan,cluster,2
+14,110,Madagascar,cluster,1
+15,111,Maldives,cluster,2
+16,112,Mexico,cluster,2
+17,113,"Macedonia, FYR",cluster,2
+18,114,Mali,cluster,1
+19,115,Malta,cluster,3
+20,116,Myanmar,cluster,1
+21,117,Montenegro,cluster,2
+22,118,Mongolia,cluster,2
+23,119,Mozambique,cluster,1
+24,12,Burundi,cluster,1
+25,120,Mauritania,cluster,1
+26,121,Mauritius,cluster,2
+27,122,Malawi,cluster,1
+28,123,Malaysia,cluster,3
+29,124,North America,cluster,3
+30,125,Namibia,cluster,1
+31,126,Niger,cluster,1
+32,127,Nigeria,cluster,1
+33,128,Nicaragua,cluster,2
+34,129,Netherlands,cluster,3
+35,13,Belgium,cluster,3
+36,130,Norway,cluster,3
+37,131,Nepal,cluster,1
+38,132,New Zealand,cluster,3
+39,133,Oman,cluster,3
+40,134,Pakistan,cluster,1
+41,135,Panama,cluster,2
+42,136,Peru,cluster,2
+43,137,Philippines,cluster,2
+44,138,Palau,cluster,2
+45,139,Papua New Guinea,cluster,1
+46,14,Benin,cluster,1
+47,140,Poland,cluster,2
+48,141,Puerto Rico,cluster,2
+49,142,Portugal,cluster,2
+50,143,Paraguay,cluster,2
+51,144,West Bank and Gaza,cluster,2
+52,145,Qatar,cluster,3
+53,146,Romania,cluster,2
+54,147,Russian Federation,cluster,2
+55,148,Rwanda,cluster,1
+56,149,South Asia,cluster,2
+57,15,Burkina Faso,cluster,1
+58,150,Saudi Arabia,cluster,3
+59,151,Sudan,cluster,1
+60,152,Senegal,cluster,1
+61,153,Singapore,cluster,3
+62,154,Solomon Islands,cluster,1
+63,155,Sierra Leone,cluster,1
+64,156,El Salvador,cluster,2
+65,157,Serbia,cluster,2
+66,158,South Sudan,cluster,1
+67,159,Sao Tome and Principe,cluster,1
+68,16,Bangladesh,cluster,2
+69,160,Suriname,cluster,2
+70,161,Slovak Republic,cluster,3
+71,162,Slovenia,cluster,3
+72,163,Sweden,cluster,3
+73,164,Swaziland,cluster,1
+74,165,Seychelles,cluster,2
+75,166,Syrian Arab Republic,cluster,2
+76,167,Chad,cluster,1
+77,168,Togo,cluster,1
+78,169,Thailand,cluster,2
+79,17,Bulgaria,cluster,2
+80,170,Tajikistan,cluster,2
+81,171,Turkmenistan,cluster,2
+82,172,Timor-Leste,cluster,1
+83,173,Tonga,cluster,2
+84,174,Trinidad and Tobago,cluster,3
+85,175,Tunisia,cluster,2
+86,176,Turkey,cluster,2
+87,177,Tanzania,cluster,1
+88,178,Uganda,cluster,1
+89,179,Ukraine,cluster,2
+90,18,Bahrain,cluster,3
+91,180,Uruguay,cluster,2
+92,181,United States,cluster,3
+93,182,Uzbekistan,cluster,2
+94,183,St. Vincent and the Grenadines,cluster,2
+95,184,"Venezuela, RB",cluster,2
+96,185,Virgin Islands (U.S.),cluster,3
+97,186,Vietnam,cluster,2
+98,187,Vanuatu,cluster,2
+99,188,Samoa,cluster,2
+100,189,"Yemen, Rep.",cluster,1
+101,19,"Bahamas, The",cluster,2
+102,190,South Africa,cluster,1
+103,191,Zambia,cluster,1
+104,192,Zimbabwe,cluster,1
+105,2,Afghanistan,cluster,1
+106,20,Bosnia and Herzegovina,cluster,2
+107,21,Belarus,cluster,2
+108,22,Belize,cluster,2
+109,23,Bermuda,cluster,3
+110,24,Bolivia,cluster,2
+111,25,Brazil,cluster,2
+112,26,Barbados,cluster,2
+113,27,Brunei Darussalam,cluster,3
+114,28,Bhutan,cluster,1
+115,29,Botswana,cluster,1
+116,3,Angola,cluster,1
+117,30,Central African Republic,cluster,1
+118,31,Canada,cluster,3
+119,32,Switzerland,cluster,3
+120,33,Chile,cluster,2
+121,34,China,cluster,2
+122,35,Cote d'Ivoire,cluster,1
+123,36,Cameroon,cluster,1
+124,37,"Congo, Dem. Rep.",cluster,1
+125,38,"Congo, Rep.",cluster,1
+126,39,Colombia,cluster,2
+127,4,Albania,cluster,2
+128,40,Comoros,cluster,1
+129,41,Cabo Verde,cluster,2
+130,42,Costa Rica,cluster,2
+131,43,Cuba,cluster,2
+132,44,Czech Republic,cluster,3
+133,45,Germany,cluster,3
+134,46,Djibouti,cluster,1
+135,47,Dominica,cluster,2
+136,48,Denmark,cluster,3
+137,49,Dominican Republic,cluster,2
+138,5,United Arab Emirates,cluster,3
+139,50,Algeria,cluster,2
+140,51,Ecuador,cluster,2
+141,52,"Egypt, Arab Rep.",cluster,2
+142,53,Eritrea,cluster,1
+143,54,Spain,cluster,3
+144,55,Estonia,cluster,3
+145,56,Ethiopia,cluster,1
+146,57,Finland,cluster,3
+147,58,Fiji,cluster,2
+148,59,France,cluster,3
+149,6,Argentina,cluster,2
+150,60,Gabon,cluster,1
+151,61,United Kingdom,cluster,3
+152,62,Georgia,cluster,2
+153,63,Ghana,cluster,1
+154,64,Guinea,cluster,1
+155,65,"Gambia, The",cluster,1
+156,66,Guinea-Bissau,cluster,1
+157,67,Equatorial Guinea,cluster,1
+158,68,Greece,cluster,2
+159,69,Grenada,cluster,2
+160,7,Armenia,cluster,2
+161,70,Guatemala,cluster,2
+162,71,Guam,cluster,2
+163,72,Guyana,cluster,2
+164,73,"Hong Kong SAR, China",cluster,3
+165,74,Honduras,cluster,2
+166,75,Croatia,cluster,2
+167,76,Haiti,cluster,1
+168,77,Hungary,cluster,2
+169,78,Indonesia,cluster,2
+170,79,India,cluster,2
+171,8,Antigua and Barbuda,cluster,2
+172,80,Ireland,cluster,3
+173,81,"Iran, Islamic Rep.",cluster,2
+174,82,Iraq,cluster,2
+175,83,Iceland,cluster,3
+176,84,Israel,cluster,3
+177,85,Italy,cluster,3
+178,86,Jamaica,cluster,2
+179,87,Jordan,cluster,2
+180,88,Japan,cluster,3
+181,89,Kazakhstan,cluster,2
+182,9,Australia,cluster,3
+183,90,Kenya,cluster,1
+184,91,Kyrgyz Republic,cluster,2
+185,92,Cambodia,cluster,1
+186,93,Kiribati,cluster,1
+187,94,St. Kitts and Nevis,cluster,2
+188,95,"Korea, Rep.",cluster,3
+189,96,Kuwait,cluster,3
+190,97,Lao PDR,cluster,1
+191,98,Lebanon,cluster,2
+192,99,Liberia,cluster,1
